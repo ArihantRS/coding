@@ -1,5 +1,5 @@
 public class LL {
-    class Node {
+    static class Node {
         int data;
         Node next;
 
@@ -62,6 +62,7 @@ public class LL {
 
     public static void main(String[] args) {
        Node l1,l2;
+      //LL.Node n1=new Node(2);
        LL ob=new LL();
        l1=ob.InsertAtBeg(1);
         l2=ob.InsertAtBeg(0);
