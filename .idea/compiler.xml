@@ -6,6 +6,7 @@
       <module name="Hashing" options="--add-modules java.base" />
       <module name="Heap" options="--add-modules java.base" />
       <module name="LinkedLists" options="--add-modules java.base" />
+      <module name="Recursion" options="--add-modules java.base" />
       <module name="String" options="--add-modules java.base" />
     </option>
   </component>

@@ -13,6 +13,7 @@ public class Prog1 {
             if (!set.add(nums[i])) {
                 return nums[i];
             }
+
         }
         return len;
 
