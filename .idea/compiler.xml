@@ -3,6 +3,8 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Arrays" options="--add-modules java.base" />
+      <module name="BinaryTree" options="--add-modules java.base" />
+      <module name="DP" options="--add-modules java.base" />
       <module name="Hashing" options="--add-modules java.base" />
       <module name="Heap" options="--add-modules java.base" />
       <module name="LinkedLists" options="--add-modules java.base" />
